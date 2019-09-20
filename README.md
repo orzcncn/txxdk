@@ -16,3 +16,8 @@
 - 失败自动截图
 
 # 测试报告展示
+![overview](https://github.com/orzcncn/txxdk/blob/master/static/overview.png)
+![Categories](https://github.com/orzcncn/txxdk/blob/master/static/Categories.png)
+![Behaviors](https://github.com/orzcncn/txxdk/blob/master/static/Behaviors.png)
+![Graphs](https://github.com/orzcncn/txxdk/blob/master/static/Graphs.png)
+![packasge](https://github.com/orzcncn/txxdk/blob/master/static/packasge.png)

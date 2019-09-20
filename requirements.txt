@@ -27,12 +27,12 @@ progress==1.5
 py==1.8.0
 pytest==4.3.1
 pytest-rerunfailures==6.0
-PyYAML==3.11
+PyYAML==5.1.2
 requests==2.21.0
 retry==0.9.2
 six==1.12.0
 tornado==6.0.2
 tqdm==4.5.0
 uiautomator2==0.2.2
-urllib3==1.24.1
+urllib3==1.25.5
 whichcraft==0.5.2
