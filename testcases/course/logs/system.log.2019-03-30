@@ -1,0 +1,428 @@
+[2019-03-30 09:37:41,452] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-03-30 09:37:41,452] [INFO] [MBP][driver.py - line:23] D8YDU16216000479
+[2019-03-30 09:38:02,679] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-03-30 09:38:02,679] [INFO] [MBP][driver.py - line:23] D8YDU16216000479
+[2019-03-30 09:38:02,860] [INFO] [MBP][driver.py - line:33] 连接设备:D8YDU16216000479
+[2019-03-30 09:38:02,860] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-03-30 09:38:15,056] [INFO] [MBP][base.py - line:195] 等待<微信发现>元素出现
+[2019-03-30 09:38:15,105] [INFO] [MBP][base.py - line:184] 展示文字
+[2019-03-30 09:38:16,116] [INFO] [MBP][base.py - line:115] 向下滑动
+[2019-03-30 09:38:25,600] [INFO] [MBP][base.py - line:41] 点击元素:<小熊家长会>
+[2019-03-30 09:38:28,762] [INFO] [MBP][base.py - line:195] 等待<新建班级>元素出现
+[2019-03-30 09:38:32,263] [INFO] [MBP][base.py - line:41] 点击元素:<打卡 >
+[2019-03-30 09:38:38,070] [INFO] [MBP][base.py - line:195] 等待<邀请打卡>元素出现
+[2019-03-30 09:38:38,070] [INFO] [MBP][test_course_basic.py - line:23] 初始化基础课程页面
+[2019-03-30 09:38:38,809] [INFO] [MBP][base.py - line:53] 点击元素<进入打卡>
+[2019-03-30 09:38:47,342] [INFO] [MBP][test_course_basic.py - line:25] 结束基础课程页面
+[2019-03-30 09:38:47,342] [INFO] [MBP][conftest.py - line:27] 自动化测试结束!
+[2019-03-30 09:38:52,240] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-03-30 09:38:52,241] [INFO] [MBP][driver.py - line:23] D8YDU16216000479
+[2019-03-30 09:38:52,350] [INFO] [MBP][driver.py - line:33] 连接设备:D8YDU16216000479
+[2019-03-30 09:38:52,350] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-03-30 09:39:04,169] [INFO] [MBP][base.py - line:195] 等待<微信发现>元素出现
+[2019-03-30 09:39:04,217] [INFO] [MBP][base.py - line:184] 展示文字
+[2019-03-30 09:39:05,456] [INFO] [MBP][base.py - line:115] 向下滑动
+[2019-03-30 09:39:07,410] [INFO] [MBP][base.py - line:41] 点击元素:<小熊家长会>
+[2019-03-30 09:39:10,955] [INFO] [MBP][base.py - line:195] 等待<新建班级>元素出现
+[2019-03-30 09:39:14,566] [INFO] [MBP][base.py - line:41] 点击元素:<打卡 >
+[2019-03-30 09:39:17,227] [INFO] [MBP][base.py - line:195] 等待<邀请打卡>元素出现
+[2019-03-30 09:39:17,227] [INFO] [MBP][test_course_basic.py - line:23] 初始化基础课程页面
+[2019-03-30 09:39:17,991] [INFO] [MBP][base.py - line:53] 点击元素<进入打卡>
+[2019-03-30 09:39:21,071] [INFO] [MBP][base.py - line:249] 断言<录音>元素存在,成功了!
+[2019-03-30 09:39:21,567] [INFO] [MBP][base.py - line:249] 断言<图片>元素存在,成功了!
+[2019-03-30 09:39:21,867] [INFO] [MBP][base.py - line:249] 断言<视频>元素存在,成功了!
+[2019-03-30 09:39:21,868] [INFO] [MBP][test_course_basic.py - line:25] 结束基础课程页面
+[2019-03-30 09:39:21,869] [INFO] [MBP][conftest.py - line:27] 自动化测试结束!
+[2019-03-30 09:39:34,178] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-03-30 09:39:34,178] [INFO] [MBP][driver.py - line:23] D8YDU16216000479
+[2019-03-30 09:39:34,288] [INFO] [MBP][driver.py - line:33] 连接设备:D8YDU16216000479
+[2019-03-30 09:39:34,288] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-03-30 09:39:46,077] [INFO] [MBP][base.py - line:195] 等待<微信发现>元素出现
+[2019-03-30 09:39:46,127] [INFO] [MBP][base.py - line:184] 展示文字
+[2019-03-30 09:39:47,427] [INFO] [MBP][base.py - line:115] 向下滑动
+[2019-03-30 09:39:49,922] [INFO] [MBP][base.py - line:41] 点击元素:<小熊家长会>
+[2019-03-30 09:39:53,229] [INFO] [MBP][base.py - line:195] 等待<新建班级>元素出现
+[2019-03-30 09:39:56,792] [INFO] [MBP][base.py - line:41] 点击元素:<打卡 >
+[2019-03-30 09:39:57,973] [INFO] [MBP][base.py - line:195] 等待<邀请打卡>元素出现
+[2019-03-30 09:39:57,974] [INFO] [MBP][test_course_basic.py - line:23] 初始化基础课程页面
+[2019-03-30 09:39:58,718] [INFO] [MBP][base.py - line:53] 点击元素<进入打卡>
+[2019-03-30 09:40:03,855] [INFO] [MBP][base.py - line:249] 断言<录音>元素存在,成功了!
+[2019-03-30 09:40:04,098] [INFO] [MBP][base.py - line:249] 断言<图片>元素存在,成功了!
+[2019-03-30 09:40:04,378] [INFO] [MBP][base.py - line:249] 断言<视频>元素存在,成功了!
+[2019-03-30 09:40:04,380] [INFO] [MBP][test_course_basic.py - line:25] 结束基础课程页面
+[2019-03-30 09:40:04,380] [INFO] [MBP][conftest.py - line:27] 自动化测试结束!
+[2019-03-30 09:40:58,113] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-03-30 09:40:58,114] [INFO] [MBP][driver.py - line:23] D8YDU16216000479
+[2019-03-30 09:40:58,279] [INFO] [MBP][driver.py - line:33] 连接设备:D8YDU16216000479
+[2019-03-30 09:40:58,279] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-03-30 09:41:09,968] [INFO] [MBP][base.py - line:195] 等待<微信发现>元素出现
+[2019-03-30 09:41:10,018] [INFO] [MBP][base.py - line:184] 展示文字
+[2019-03-30 09:41:11,308] [INFO] [MBP][base.py - line:115] 向下滑动
+[2019-03-30 09:41:13,441] [INFO] [MBP][base.py - line:41] 点击元素:<小熊家长会>
+[2019-03-30 09:41:16,860] [INFO] [MBP][base.py - line:195] 等待<新建班级>元素出现
+[2019-03-30 09:41:20,112] [INFO] [MBP][base.py - line:41] 点击元素:<打卡 >
+[2019-03-30 09:41:25,994] [INFO] [MBP][base.py - line:195] 等待<邀请打卡>元素出现
+[2019-03-30 09:41:25,994] [INFO] [MBP][test_course_basic.py - line:23] 初始化基础课程页面
+[2019-03-30 09:41:26,761] [INFO] [MBP][base.py - line:53] 点击元素<进入打卡>
+[2019-03-30 09:41:34,276] [INFO] [MBP][test_course_basic.py - line:25] 结束基础课程页面
+[2019-03-30 09:41:34,276] [INFO] [MBP][conftest.py - line:27] 自动化测试结束!
+[2019-03-30 09:43:16,809] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-03-30 09:43:16,810] [INFO] [MBP][driver.py - line:23] D8YDU16216000479
+[2019-03-30 09:43:16,949] [INFO] [MBP][driver.py - line:33] 连接设备:D8YDU16216000479
+[2019-03-30 09:43:16,950] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-03-30 09:43:28,530] [INFO] [MBP][base.py - line:195] 等待<微信发现>元素出现
+[2019-03-30 09:43:28,580] [INFO] [MBP][base.py - line:184] 展示文字
+[2019-03-30 09:43:29,880] [INFO] [MBP][base.py - line:115] 向下滑动
+[2019-03-30 09:43:31,853] [INFO] [MBP][base.py - line:41] 点击元素:<小熊家长会>
+[2019-03-30 09:43:35,573] [INFO] [MBP][base.py - line:195] 等待<新建班级>元素出现
+[2019-03-30 09:43:38,949] [INFO] [MBP][base.py - line:41] 点击元素:<打卡 >
+[2019-03-30 09:43:44,917] [INFO] [MBP][base.py - line:195] 等待<邀请打卡>元素出现
+[2019-03-30 09:43:44,917] [INFO] [MBP][test_course_basic.py - line:23] 初始化基础课程页面
+[2019-03-30 09:43:45,651] [INFO] [MBP][base.py - line:53] 点击元素<进入打卡>
+[2019-03-30 09:43:53,299] [INFO] [MBP][test_course_basic.py - line:25] 结束基础课程页面
+[2019-03-30 09:43:53,299] [INFO] [MBP][conftest.py - line:27] 自动化测试结束!
+[2019-03-30 09:45:44,938] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-03-30 09:45:44,938] [INFO] [MBP][driver.py - line:23] D8YDU16216000479
+[2019-03-30 09:45:45,135] [INFO] [MBP][driver.py - line:33] 连接设备:D8YDU16216000479
+[2019-03-30 09:45:45,136] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-03-30 09:45:57,221] [INFO] [MBP][base.py - line:195] 等待<微信发现>元素出现
+[2019-03-30 09:45:57,271] [INFO] [MBP][base.py - line:184] 展示文字
+[2019-03-30 09:45:58,621] [INFO] [MBP][base.py - line:115] 向下滑动
+[2019-03-30 09:46:00,672] [INFO] [MBP][base.py - line:41] 点击元素:<小熊家长会>
+[2019-03-30 09:46:04,320] [INFO] [MBP][base.py - line:195] 等待<新建班级>元素出现
+[2019-03-30 09:46:07,658] [INFO] [MBP][base.py - line:41] 点击元素:<打卡 >
+[2019-03-30 09:46:13,458] [INFO] [MBP][base.py - line:195] 等待<邀请打卡>元素出现
+[2019-03-30 09:46:13,458] [INFO] [MBP][test_course_basic.py - line:23] 初始化基础课程页面
+[2019-03-30 09:46:14,214] [INFO] [MBP][base.py - line:53] 点击元素<进入打卡>
+[2019-03-30 09:46:21,720] [INFO] [MBP][test_course_basic.py - line:25] 结束基础课程页面
+[2019-03-30 09:46:21,720] [INFO] [MBP][conftest.py - line:27] 自动化测试结束!
+[2019-03-30 09:47:07,742] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-03-30 09:47:07,743] [INFO] [MBP][driver.py - line:23] D8YDU16216000479
+[2019-03-30 09:47:07,912] [INFO] [MBP][driver.py - line:33] 连接设备:D8YDU16216000479
+[2019-03-30 09:47:07,912] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-03-30 09:47:19,471] [INFO] [MBP][base.py - line:195] 等待<微信发现>元素出现
+[2019-03-30 09:47:19,522] [INFO] [MBP][base.py - line:184] 展示文字
+[2019-03-30 09:47:20,781] [INFO] [MBP][base.py - line:115] 向下滑动
+[2019-03-30 09:47:23,297] [INFO] [MBP][base.py - line:41] 点击元素:<小熊家长会>
+[2019-03-30 09:47:28,925] [INFO] [MBP][base.py - line:195] 等待<历史班级>元素出现
+[2019-03-30 09:47:30,354] [INFO] [MBP][base.py - line:41] 点击元素:<打卡 >
+[2019-03-30 09:47:32,855] [INFO] [MBP][base.py - line:195] 等待<邀请打卡>元素出现
+[2019-03-30 09:47:32,856] [INFO] [MBP][test_course_basic.py - line:23] 初始化基础课程页面
+[2019-03-30 09:47:33,595] [INFO] [MBP][base.py - line:53] 点击元素<进入打卡>
+[2019-03-30 09:47:36,039] [INFO] [MBP][base.py - line:249] 断言<录音>元素存在,成功了!
+[2019-03-30 09:47:36,222] [INFO] [MBP][base.py - line:249] 断言<图片>元素存在,成功了!
+[2019-03-30 09:47:36,593] [INFO] [MBP][base.py - line:249] 断言<视频>元素存在,成功了!
+[2019-03-30 09:47:36,594] [INFO] [MBP][test_course_basic.py - line:25] 结束基础课程页面
+[2019-03-30 09:47:36,594] [INFO] [MBP][conftest.py - line:27] 自动化测试结束!
+[2019-03-30 09:47:41,239] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-03-30 09:47:41,240] [INFO] [MBP][driver.py - line:23] D8YDU16216000479
+[2019-03-30 09:47:41,354] [INFO] [MBP][driver.py - line:33] 连接设备:D8YDU16216000479
+[2019-03-30 09:47:41,354] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-03-30 09:47:54,142] [INFO] [MBP][base.py - line:195] 等待<微信发现>元素出现
+[2019-03-30 09:47:54,192] [INFO] [MBP][base.py - line:184] 展示文字
+[2019-03-30 09:47:55,431] [INFO] [MBP][base.py - line:115] 向下滑动
+[2019-03-30 09:47:57,947] [INFO] [MBP][base.py - line:41] 点击元素:<小熊家长会>
+[2019-03-30 09:48:02,564] [INFO] [MBP][base.py - line:195] 等待<历史班级>元素出现
+[2019-03-30 09:48:04,335] [INFO] [MBP][base.py - line:41] 点击元素:<打卡 >
+[2019-03-30 09:48:10,076] [INFO] [MBP][base.py - line:195] 等待<邀请打卡>元素出现
+[2019-03-30 09:48:10,076] [INFO] [MBP][test_course_basic.py - line:23] 初始化基础课程页面
+[2019-03-30 09:48:10,818] [INFO] [MBP][base.py - line:53] 点击元素<进入打卡>
+[2019-03-30 09:48:18,117] [INFO] [MBP][test_course_basic.py - line:25] 结束基础课程页面
+[2019-03-30 09:48:18,119] [INFO] [MBP][conftest.py - line:27] 自动化测试结束!
+[2019-03-30 09:51:05,724] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-03-30 09:51:05,725] [INFO] [MBP][driver.py - line:23] D8YDU16216000479
+[2019-03-30 09:51:05,885] [INFO] [MBP][driver.py - line:33] 连接设备:D8YDU16216000479
+[2019-03-30 09:51:05,885] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-03-30 09:51:17,745] [INFO] [MBP][base.py - line:195] 等待<微信发现>元素出现
+[2019-03-30 09:51:17,794] [INFO] [MBP][base.py - line:184] 展示文字
+[2019-03-30 09:51:19,074] [INFO] [MBP][base.py - line:115] 向下滑动
+[2019-03-30 09:51:21,655] [INFO] [MBP][base.py - line:41] 点击元素:<小熊家长会>
+[2019-03-30 09:51:27,189] [INFO] [MBP][base.py - line:195] 等待<历史班级>元素出现
+[2019-03-30 09:51:30,592] [INFO] [MBP][base.py - line:41] 点击元素:<打卡 >
+[2019-03-30 09:51:31,530] [INFO] [MBP][base.py - line:195] 等待<邀请打卡>元素出现
+[2019-03-30 09:51:31,531] [INFO] [MBP][test_course_basic.py - line:23] 初始化基础课程页面
+[2019-03-30 09:51:32,288] [INFO] [MBP][base.py - line:53] 点击元素<进入打卡>
+[2019-03-30 09:51:37,024] [INFO] [MBP][base.py - line:249] 断言<录音>元素存在,成功了!
+[2019-03-30 09:51:37,224] [INFO] [MBP][base.py - line:249] 断言<图片>元素存在,成功了!
+[2019-03-30 09:51:37,373] [INFO] [MBP][base.py - line:249] 断言<视频>元素存在,成功了!
+[2019-03-30 09:51:37,376] [INFO] [MBP][test_course_basic.py - line:25] 结束基础课程页面
+[2019-03-30 09:51:37,376] [INFO] [MBP][conftest.py - line:27] 自动化测试结束!
+[2019-03-30 09:51:50,402] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-03-30 09:51:50,402] [INFO] [MBP][driver.py - line:23] D8YDU16216000479
+[2019-03-30 09:51:50,533] [INFO] [MBP][driver.py - line:33] 连接设备:D8YDU16216000479
+[2019-03-30 09:51:50,533] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-03-30 09:52:02,534] [INFO] [MBP][base.py - line:195] 等待<微信发现>元素出现
+[2019-03-30 09:52:02,584] [INFO] [MBP][base.py - line:184] 展示文字
+[2019-03-30 09:52:03,854] [INFO] [MBP][base.py - line:115] 向下滑动
+[2019-03-30 09:52:06,203] [INFO] [MBP][base.py - line:41] 点击元素:<小熊家长会>
+[2019-03-30 09:52:11,741] [INFO] [MBP][base.py - line:195] 等待<历史班级>元素出现
+[2019-03-30 09:52:15,292] [INFO] [MBP][base.py - line:41] 点击元素:<打卡 >
+[2019-03-30 09:52:18,119] [INFO] [MBP][base.py - line:195] 等待<邀请打卡>元素出现
+[2019-03-30 09:52:18,119] [INFO] [MBP][test_course_basic.py - line:23] 初始化基础课程页面
+[2019-03-30 09:52:18,859] [INFO] [MBP][base.py - line:53] 点击元素<老师收花列表>
+[2019-03-30 09:52:26,024] [INFO] [MBP][test_course_basic.py - line:25] 结束基础课程页面
+[2019-03-30 09:52:26,025] [INFO] [MBP][conftest.py - line:27] 自动化测试结束!
+[2019-03-30 09:54:19,141] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-03-30 09:54:19,142] [INFO] [MBP][driver.py - line:23] D8YDU16216000479
+[2019-03-30 09:54:19,271] [INFO] [MBP][driver.py - line:33] 连接设备:D8YDU16216000479
+[2019-03-30 09:54:19,271] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-03-30 09:54:28,182] [INFO] [MBP][base.py - line:195] 等待<微信发现>元素出现
+[2019-03-30 09:54:28,231] [INFO] [MBP][base.py - line:184] 展示文字
+[2019-03-30 09:54:30,212] [INFO] [MBP][base.py - line:115] 向下滑动
+[2019-03-30 09:54:36,007] [INFO] [MBP][base.py - line:41] 点击元素:<小熊家长会>
+[2019-03-30 09:54:41,216] [INFO] [MBP][base.py - line:195] 等待<历史班级>元素出现
+[2019-03-30 09:54:44,885] [INFO] [MBP][base.py - line:41] 点击元素:<打卡 >
+[2019-03-30 09:54:47,584] [INFO] [MBP][base.py - line:195] 等待<邀请打卡>元素出现
+[2019-03-30 09:54:47,585] [INFO] [MBP][test_course_basic.py - line:23] 初始化基础课程页面
+[2019-03-30 09:54:48,335] [INFO] [MBP][base.py - line:53] 点击元素<老师收花列表>
+[2019-03-30 09:54:56,008] [INFO] [MBP][test_course_basic.py - line:25] 结束基础课程页面
+[2019-03-30 09:54:56,008] [INFO] [MBP][conftest.py - line:27] 自动化测试结束!
+[2019-03-30 09:55:11,770] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-03-30 09:55:11,770] [INFO] [MBP][driver.py - line:23] D8YDU16216000479
+[2019-03-30 09:55:11,881] [INFO] [MBP][driver.py - line:33] 连接设备:D8YDU16216000479
+[2019-03-30 09:55:11,881] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-03-30 09:55:24,331] [INFO] [MBP][base.py - line:195] 等待<微信发现>元素出现
+[2019-03-30 09:55:24,380] [INFO] [MBP][base.py - line:184] 展示文字
+[2019-03-30 09:55:25,701] [INFO] [MBP][base.py - line:115] 向下滑动
+[2019-03-30 09:55:27,727] [INFO] [MBP][base.py - line:41] 点击元素:<小熊家长会>
+[2019-03-30 09:55:33,442] [INFO] [MBP][base.py - line:195] 等待<历史班级>元素出现
+[2019-03-30 09:55:37,231] [INFO] [MBP][base.py - line:41] 点击元素:<打卡 >
+[2019-03-30 09:55:38,526] [INFO] [MBP][base.py - line:195] 等待<邀请打卡>元素出现
+[2019-03-30 09:55:38,526] [INFO] [MBP][test_course_basic.py - line:23] 初始化基础课程页面
+[2019-03-30 09:55:39,307] [INFO] [MBP][base.py - line:53] 点击元素<老师收花列表>
+[2019-03-30 09:55:47,554] [INFO] [MBP][test_course_basic.py - line:25] 结束基础课程页面
+[2019-03-30 09:55:47,554] [INFO] [MBP][conftest.py - line:27] 自动化测试结束!
+[2019-03-30 09:57:36,639] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-03-30 09:57:36,639] [INFO] [MBP][driver.py - line:23] 9fffdc4c
+[2019-03-30 09:57:36,670] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /version
+[2019-03-30 09:57:36,675] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /version
+[2019-03-30 09:57:36,678] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /version
+[2019-03-30 09:57:36,918] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /ping
+[2019-03-30 09:57:36,920] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /ping
+[2019-03-30 09:57:36,922] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /ping
+[2019-03-30 09:57:36,928] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /ping
+[2019-03-30 09:57:36,929] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /ping
+[2019-03-30 09:57:36,931] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /ping
+[2019-03-30 09:57:36,935] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /ping
+[2019-03-30 09:57:36,938] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /ping
+[2019-03-30 09:57:36,940] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /ping
+[2019-03-30 09:57:36,946] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /ping
+[2019-03-30 09:57:36,947] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /ping
+[2019-03-30 09:57:36,950] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /ping
+[2019-03-30 09:57:36,955] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /ping
+[2019-03-30 09:57:36,958] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /ping
+[2019-03-30 09:57:36,961] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /ping
+[2019-03-30 09:57:36,967] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /ping
+[2019-03-30 09:57:36,970] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /ping
+[2019-03-30 09:57:36,972] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /ping
+[2019-03-30 09:57:36,978] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /ping
+[2019-03-30 09:57:36,980] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /ping
+[2019-03-30 09:57:36,983] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /ping
+[2019-03-30 09:57:36,988] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /ping
+[2019-03-30 09:57:36,990] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /ping
+[2019-03-30 09:57:36,993] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /ping
+[2019-03-30 09:57:37,000] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /ping
+[2019-03-30 09:57:39,912] [INFO] [MBP][driver.py - line:33] 连接设备:9fffdc4c
+[2019-03-30 09:57:39,912] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-03-30 09:57:51,588] [INFO] [MBP][base.py - line:195] 等待<微信发现>元素出现
+[2019-03-30 09:57:51,678] [INFO] [MBP][base.py - line:184] 展示文字
+[2019-03-30 09:57:52,758] [INFO] [MBP][base.py - line:115] 向下滑动
+[2019-03-30 09:57:54,496] [INFO] [MBP][base.py - line:41] 点击元素:<小熊家长会>
+[2019-03-30 09:58:00,902] [INFO] [MBP][base.py - line:195] 等待<历史班级>元素出现
+[2019-03-30 09:58:04,532] [INFO] [MBP][base.py - line:41] 点击元素:<打卡 >
+[2019-03-30 09:58:05,381] [INFO] [MBP][base.py - line:195] 等待<邀请打卡>元素出现
+[2019-03-30 09:58:05,381] [INFO] [MBP][test_course_basic.py - line:23] 初始化基础课程页面
+[2019-03-30 09:58:06,161] [INFO] [MBP][base.py - line:53] 点击元素<老师收花列表>
+[2019-03-30 09:58:12,280] [INFO] [MBP][test_course_basic.py - line:25] 结束基础课程页面
+[2019-03-30 09:58:12,295] [INFO] [MBP][conftest.py - line:27] 自动化测试结束!
+[2019-03-30 09:59:36,110] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-03-30 09:59:36,110] [INFO] [MBP][driver.py - line:23] 9fffdc4c
+[2019-03-30 09:59:38,156] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='127.0.0.1', port=49305): Read timed out. (read timeout=2)")': /ping
+[2019-03-30 09:59:40,162] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='127.0.0.1', port=49305): Read timed out. (read timeout=2)")': /ping
+[2019-03-30 09:59:42,167] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='127.0.0.1', port=49305): Read timed out. (read timeout=2)")': /ping
+[2019-03-30 10:01:49,599] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-03-30 10:01:49,600] [INFO] [MBP][driver.py - line:23] 9fffdc4c
+[2019-03-30 10:01:51,640] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='127.0.0.1', port=49305): Read timed out. (read timeout=2)")': /ping
+[2019-03-30 10:01:53,646] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='127.0.0.1', port=49305): Read timed out. (read timeout=2)")': /ping
+[2019-03-30 10:01:55,650] [WARNING] [MBP][connectionpool.py - line:662] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='127.0.0.1', port=49305): Read timed out. (read timeout=2)")': /ping
+[2019-03-30 10:02:40,250] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-03-30 10:02:40,251] [INFO] [MBP][driver.py - line:23] 9fffdc4c
+[2019-03-30 10:02:40,261] [INFO] [MBP][driver.py - line:36] 初始化driver异常!device '9fffdc4c' not found
+[2019-03-30 10:02:40,262] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-03-30 10:02:53,397] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-03-30 10:02:53,398] [INFO] [MBP][driver.py - line:23] D8YDU16216000479
+[2019-03-30 10:02:53,654] [INFO] [MBP][driver.py - line:33] 连接设备:D8YDU16216000479
+[2019-03-30 10:02:53,654] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-03-30 10:03:05,564] [INFO] [MBP][base.py - line:195] 等待<微信发现>元素出现
+[2019-03-30 10:03:05,614] [INFO] [MBP][base.py - line:184] 展示文字
+[2019-03-30 10:03:06,843] [INFO] [MBP][base.py - line:115] 向下滑动
+[2019-03-30 10:03:09,338] [INFO] [MBP][base.py - line:41] 点击元素:<小熊家长会>
+[2019-03-30 10:03:14,414] [INFO] [MBP][base.py - line:195] 等待<历史班级>元素出现
+[2019-03-30 10:03:17,975] [INFO] [MBP][base.py - line:41] 点击元素:<打卡 >
+[2019-03-30 10:03:20,582] [INFO] [MBP][base.py - line:195] 等待<邀请打卡>元素出现
+[2019-03-30 10:03:20,582] [INFO] [MBP][test_course_basic.py - line:23] 初始化基础课程页面
+[2019-03-30 10:03:21,315] [INFO] [MBP][base.py - line:53] 点击元素<老师收花列表>
+[2019-03-30 10:03:28,884] [INFO] [MBP][test_course_basic.py - line:25] 结束基础课程页面
+[2019-03-30 10:03:28,884] [INFO] [MBP][conftest.py - line:27] 自动化测试结束!
+[2019-03-30 10:03:56,156] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-03-30 10:03:56,157] [INFO] [MBP][driver.py - line:23] D8YDU16216000479
+[2019-03-30 10:03:56,336] [INFO] [MBP][driver.py - line:33] 连接设备:D8YDU16216000479
+[2019-03-30 10:03:56,337] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-03-30 10:04:08,264] [INFO] [MBP][base.py - line:195] 等待<微信发现>元素出现
+[2019-03-30 10:04:08,314] [INFO] [MBP][base.py - line:184] 展示文字
+[2019-03-30 10:04:09,624] [INFO] [MBP][base.py - line:115] 向下滑动
+[2019-03-30 10:04:12,045] [INFO] [MBP][base.py - line:41] 点击元素:<小熊家长会>
+[2019-03-30 10:04:17,425] [INFO] [MBP][base.py - line:195] 等待<历史班级>元素出现
+[2019-03-30 10:04:20,989] [INFO] [MBP][base.py - line:41] 点击元素:<打卡 >
+[2019-03-30 10:04:25,143] [INFO] [MBP][base.py - line:195] 等待<邀请打卡>元素出现
+[2019-03-30 10:04:25,143] [INFO] [MBP][test_course_basic.py - line:23] 初始化基础课程页面
+[2019-03-30 10:04:25,889] [INFO] [MBP][base.py - line:53] 点击元素<老师收花列表>
+[2019-03-30 10:04:33,151] [INFO] [MBP][test_course_basic.py - line:25] 结束基础课程页面
+[2019-03-30 10:04:33,151] [INFO] [MBP][conftest.py - line:27] 自动化测试结束!
+[2019-03-30 10:05:48,006] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-03-30 10:05:48,007] [INFO] [MBP][driver.py - line:23] D8YDU16216000479
+[2019-03-30 10:05:48,144] [INFO] [MBP][driver.py - line:33] 连接设备:D8YDU16216000479
+[2019-03-30 10:05:48,145] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-03-30 10:06:00,404] [INFO] [MBP][base.py - line:195] 等待<微信发现>元素出现
+[2019-03-30 10:06:00,454] [INFO] [MBP][base.py - line:184] 展示文字
+[2019-03-30 10:06:01,708] [INFO] [MBP][base.py - line:115] 向下滑动
+[2019-03-30 10:06:04,120] [INFO] [MBP][base.py - line:41] 点击元素:<小熊家长会>
+[2019-03-30 10:06:09,474] [INFO] [MBP][base.py - line:195] 等待<历史班级>元素出现
+[2019-03-30 10:06:13,179] [INFO] [MBP][base.py - line:41] 点击元素:<打卡 >
+[2019-03-30 10:06:17,918] [INFO] [MBP][base.py - line:195] 等待<邀请打卡>元素出现
+[2019-03-30 10:06:17,918] [INFO] [MBP][test_course_basic.py - line:23] 初始化基础课程页面
+[2019-03-30 10:06:18,676] [INFO] [MBP][base.py - line:53] 点击元素<老师收花列表>
+[2019-03-30 10:06:27,149] [INFO] [MBP][test_course_basic.py - line:25] 结束基础课程页面
+[2019-03-30 10:06:27,150] [INFO] [MBP][conftest.py - line:27] 自动化测试结束!
+[2019-03-30 10:06:30,643] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-03-30 10:06:30,644] [INFO] [MBP][driver.py - line:23] D8YDU16216000479
+[2019-03-30 10:06:30,755] [INFO] [MBP][driver.py - line:33] 连接设备:D8YDU16216000479
+[2019-03-30 10:06:30,756] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-03-30 10:06:42,244] [INFO] [MBP][base.py - line:195] 等待<微信发现>元素出现
+[2019-03-30 10:06:42,294] [INFO] [MBP][base.py - line:184] 展示文字
+[2019-03-30 10:06:43,634] [INFO] [MBP][base.py - line:115] 向下滑动
+[2019-03-30 10:06:45,840] [INFO] [MBP][base.py - line:41] 点击元素:<小熊家长会>
+[2019-03-30 10:06:52,206] [INFO] [MBP][base.py - line:195] 等待<历史班级>元素出现
+[2019-03-30 10:06:55,839] [INFO] [MBP][base.py - line:41] 点击元素:<打卡 >
+[2019-03-30 10:07:00,656] [INFO] [MBP][base.py - line:195] 等待<邀请打卡>元素出现
+[2019-03-30 10:07:00,656] [INFO] [MBP][test_course_basic.py - line:23] 初始化基础课程页面
+[2019-03-30 10:07:02,447] [INFO] [MBP][base.py - line:41] 点击元素:<送花>
+[2019-03-30 10:07:02,449] [INFO] [MBP][test_course_basic.py - line:25] 结束基础课程页面
+[2019-03-30 10:07:02,450] [INFO] [MBP][conftest.py - line:27] 自动化测试结束!
+[2019-03-30 10:24:06,951] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-03-30 10:24:06,955] [INFO] [MBP][driver.py - line:23] D8YDU16216000479
+[2019-03-30 10:24:07,122] [INFO] [MBP][driver.py - line:33] 连接设备:D8YDU16216000479
+[2019-03-30 10:24:07,123] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-03-30 10:24:18,881] [INFO] [MBP][base.py - line:195] 等待<微信发现>元素出现
+[2019-03-30 10:24:18,931] [INFO] [MBP][base.py - line:184] 展示文字
+[2019-03-30 10:24:20,370] [INFO] [MBP][base.py - line:115] 向下滑动
+[2019-03-30 10:24:22,525] [INFO] [MBP][base.py - line:41] 点击元素:<小熊家长会>
+[2019-03-30 10:24:28,010] [INFO] [MBP][base.py - line:195] 等待<历史班级>元素出现
+[2019-03-30 10:24:31,786] [INFO] [MBP][base.py - line:41] 点击元素:<打卡 >
+[2019-03-30 10:24:36,478] [INFO] [MBP][base.py - line:195] 等待<邀请打卡>元素出现
+[2019-03-30 10:24:36,479] [INFO] [MBP][test_course_basic.py - line:23] 初始化基础课程页面
+[2019-03-30 10:24:38,328] [INFO] [MBP][base.py - line:41] 点击元素:<送花>
+[2019-03-30 10:24:41,827] [INFO] [MBP][base.py - line:41] 点击元素:<送出>
+[2019-03-30 10:24:47,465] [INFO] [MBP][base.py - line:206] 等待<绘制送花图片中>元素消失
+[2019-03-30 10:24:49,258] [INFO] [MBP][base.py - line:41] 点击元素:<确认送出>
+[2019-03-30 10:24:49,260] [INFO] [MBP][test_course_basic.py - line:25] 结束基础课程页面
+[2019-03-30 10:24:49,260] [INFO] [MBP][conftest.py - line:27] 自动化测试结束!
+[2019-03-30 10:29:04,334] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-03-30 10:29:04,334] [INFO] [MBP][driver.py - line:23] D8YDU16216000479
+[2019-03-30 10:29:04,487] [INFO] [MBP][driver.py - line:33] 连接设备:D8YDU16216000479
+[2019-03-30 10:29:04,487] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-03-30 10:29:17,078] [INFO] [MBP][base.py - line:195] 等待<微信发现>元素出现
+[2019-03-30 10:29:17,128] [INFO] [MBP][base.py - line:184] 展示文字
+[2019-03-30 10:29:18,497] [INFO] [MBP][base.py - line:115] 向下滑动
+[2019-03-30 10:29:20,792] [INFO] [MBP][base.py - line:41] 点击元素:<小熊家长会>
+[2019-03-30 10:29:26,134] [INFO] [MBP][base.py - line:195] 等待<历史班级>元素出现
+[2019-03-30 10:29:30,055] [INFO] [MBP][base.py - line:41] 点击元素:<打卡 >
+[2019-03-30 10:29:35,040] [INFO] [MBP][base.py - line:195] 等待<邀请打卡>元素出现
+[2019-03-30 10:29:35,040] [INFO] [MBP][test_course_basic.py - line:23] 初始化基础课程页面
+[2019-03-30 10:29:37,036] [INFO] [MBP][base.py - line:41] 点击元素:<送花>
+[2019-03-30 10:29:40,573] [INFO] [MBP][base.py - line:41] 点击元素:<送出>
+[2019-03-30 10:29:51,239] [INFO] [MBP][base.py - line:206] 等待<绘制送花图片中>元素消失
+[2019-03-30 10:29:53,073] [INFO] [MBP][base.py - line:41] 点击元素:<确认送出>
+[2019-03-30 10:29:54,865] [INFO] [MBP][base.py - line:41] 点击元素:<确认>
+[2019-03-30 10:30:04,164] [INFO] [MBP][test_course_basic.py - line:25] 结束基础课程页面
+[2019-03-30 10:30:04,168] [INFO] [MBP][conftest.py - line:27] 自动化测试结束!
+[2019-03-30 10:30:27,736] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-03-30 10:30:27,737] [INFO] [MBP][driver.py - line:23] D8YDU16216000479
+[2019-03-30 10:30:27,878] [INFO] [MBP][driver.py - line:33] 连接设备:D8YDU16216000479
+[2019-03-30 10:30:27,878] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-03-30 10:30:39,739] [INFO] [MBP][base.py - line:195] 等待<微信发现>元素出现
+[2019-03-30 10:30:39,789] [INFO] [MBP][base.py - line:184] 展示文字
+[2019-03-30 10:30:41,189] [INFO] [MBP][base.py - line:115] 向下滑动
+[2019-03-30 10:30:43,414] [INFO] [MBP][base.py - line:41] 点击元素:<小熊家长会>
+[2019-03-30 10:30:49,521] [INFO] [MBP][base.py - line:195] 等待<历史班级>元素出现
+[2019-03-30 10:30:53,113] [INFO] [MBP][base.py - line:41] 点击元素:<打卡 >
+[2019-03-30 10:30:58,027] [INFO] [MBP][base.py - line:195] 等待<邀请打卡>元素出现
+[2019-03-30 10:30:58,027] [INFO] [MBP][test_course_basic.py - line:23] 初始化基础课程页面
+[2019-03-30 10:31:00,016] [INFO] [MBP][base.py - line:41] 点击元素:<送花>
+[2019-03-30 10:31:03,549] [INFO] [MBP][base.py - line:41] 点击元素:<送出>
+[2019-03-30 10:31:08,600] [INFO] [MBP][base.py - line:206] 等待<绘制送花图片中>元素消失
+[2019-03-30 10:31:10,431] [INFO] [MBP][base.py - line:41] 点击元素:<确认送出>
+[2019-03-30 10:31:12,285] [INFO] [MBP][base.py - line:41] 点击元素:<确认>
+[2019-03-30 10:31:22,210] [INFO] [MBP][test_course_basic.py - line:25] 结束基础课程页面
+[2019-03-30 10:31:22,210] [INFO] [MBP][conftest.py - line:27] 自动化测试结束!
+[2019-03-30 11:10:51,963] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-03-30 11:10:51,964] [INFO] [MBP][driver.py - line:23] D8YDU16216000479
+[2019-03-30 11:10:52,164] [INFO] [MBP][driver.py - line:33] 连接设备:D8YDU16216000479
+[2019-03-30 11:10:52,165] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-03-30 11:11:05,672] [INFO] [MBP][base.py - line:195] 等待<微信发现>元素出现
+[2019-03-30 11:11:05,722] [INFO] [MBP][base.py - line:184] 展示文字
+[2019-03-30 11:11:06,973] [INFO] [MBP][base.py - line:115] 向下滑动
+[2019-03-30 11:11:09,011] [INFO] [MBP][base.py - line:41] 点击元素:<小熊家长会>
+[2019-03-30 11:11:14,741] [INFO] [MBP][base.py - line:195] 等待<历史班级>元素出现
+[2019-03-30 11:11:18,367] [INFO] [MBP][base.py - line:41] 点击元素:<打卡 >
+[2019-03-30 11:11:23,129] [INFO] [MBP][base.py - line:195] 等待<邀请打卡>元素出现
+[2019-03-30 11:11:23,129] [INFO] [MBP][test_course_basic.py - line:23] 初始化基础课程页面
+[2019-03-30 11:11:25,863] [INFO] [MBP][test_course_basic.py - line:25] 结束基础课程页面
+[2019-03-30 11:11:25,863] [INFO] [MBP][conftest.py - line:27] 自动化测试结束!
+[2019-03-30 11:12:00,667] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-03-30 11:12:00,667] [INFO] [MBP][driver.py - line:23] D8YDU16216000479
+[2019-03-30 11:12:00,823] [INFO] [MBP][driver.py - line:33] 连接设备:D8YDU16216000479
+[2019-03-30 11:12:00,823] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-03-30 11:12:10,954] [INFO] [MBP][base.py - line:195] 等待<微信发现>元素出现
+[2019-03-30 11:12:11,003] [INFO] [MBP][base.py - line:184] 展示文字
+[2019-03-30 11:12:13,033] [INFO] [MBP][base.py - line:115] 向下滑动
+[2019-03-30 11:12:26,508] [INFO] [MBP][base.py - line:41] 点击元素:<小熊家长会>
+[2019-03-30 11:12:31,722] [INFO] [MBP][base.py - line:195] 等待<历史班级>元素出现
+[2019-03-30 11:12:35,320] [INFO] [MBP][base.py - line:41] 点击元素:<打卡 >
+[2019-03-30 11:12:40,125] [INFO] [MBP][base.py - line:195] 等待<邀请打卡>元素出现
+[2019-03-30 11:12:40,126] [INFO] [MBP][test_course_basic.py - line:23] 初始化基础课程页面
+[2019-03-30 11:12:42,668] [INFO] [MBP][test_course_basic.py - line:25] 结束基础课程页面
+[2019-03-30 11:12:42,669] [INFO] [MBP][conftest.py - line:27] 自动化测试结束!
+[2019-03-30 11:12:59,694] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-03-30 11:12:59,694] [INFO] [MBP][driver.py - line:23] D8YDU16216000479
+[2019-03-30 11:12:59,803] [INFO] [MBP][driver.py - line:33] 连接设备:D8YDU16216000479
+[2019-03-30 11:12:59,803] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-03-30 11:13:13,544] [INFO] [MBP][base.py - line:195] 等待<微信发现>元素出现
+[2019-03-30 11:13:13,592] [INFO] [MBP][base.py - line:184] 展示文字
+[2019-03-30 11:13:15,014] [INFO] [MBP][base.py - line:115] 向下滑动
+[2019-03-30 11:13:16,992] [INFO] [MBP][base.py - line:41] 点击元素:<小熊家长会>
+[2019-03-30 11:13:22,792] [INFO] [MBP][base.py - line:195] 等待<历史班级>元素出现
+[2019-03-30 11:13:26,675] [INFO] [MBP][base.py - line:41] 点击元素:<打卡 >
+[2019-03-30 11:13:31,671] [INFO] [MBP][base.py - line:195] 等待<邀请打卡>元素出现
+[2019-03-30 11:13:31,671] [INFO] [MBP][test_course_basic.py - line:23] 初始化基础课程页面
+[2019-03-30 11:13:33,862] [INFO] [MBP][base.py - line:41] 点击元素:<邀请打卡>
+[2019-03-30 11:13:34,575] [INFO] [MBP][base.py - line:53] 点击元素<分享打卡班级>
+[2019-03-30 11:13:37,929] [INFO] [MBP][base.py - line:41] 点击元素:<创建新聊天>
+[2019-03-30 11:13:37,930] [INFO] [MBP][test_course_basic.py - line:25] 结束基础课程页面
+[2019-03-30 11:13:37,931] [INFO] [MBP][conftest.py - line:27] 自动化测试结束!
+[2019-03-30 11:14:51,400] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-03-30 11:14:51,401] [INFO] [MBP][driver.py - line:23] D8YDU16216000479
+[2019-03-30 11:14:51,535] [INFO] [MBP][driver.py - line:33] 连接设备:D8YDU16216000479
+[2019-03-30 11:14:51,535] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-03-30 11:15:00,816] [INFO] [MBP][base.py - line:195] 等待<微信发现>元素出现
+[2019-03-30 11:15:00,864] [INFO] [MBP][base.py - line:184] 展示文字
+[2019-03-30 11:15:02,844] [INFO] [MBP][base.py - line:115] 向下滑动
+[2019-03-30 11:15:13,199] [INFO] [MBP][base.py - line:41] 点击元素:<小熊家长会>
+[2019-03-30 11:15:18,153] [INFO] [MBP][base.py - line:195] 等待<历史班级>元素出现
+[2019-03-30 11:15:21,610] [INFO] [MBP][base.py - line:41] 点击元素:<打卡 >
+[2019-03-30 11:15:26,115] [INFO] [MBP][base.py - line:195] 等待<邀请打卡>元素出现
+[2019-03-30 11:15:26,115] [INFO] [MBP][test_course_basic.py - line:23] 初始化基础课程页面
+[2019-03-30 11:15:26,876] [INFO] [MBP][base.py - line:53] 点击元素<老师收花列表>
+[2019-03-30 11:15:30,292] [INFO] [MBP][base.py - line:249] 断言<家庭教育收费班级>元素存在,成功了!
+[2019-03-30 11:15:30,293] [INFO] [MBP][test_course_basic.py - line:25] 结束基础课程页面
+[2019-03-30 11:15:30,293] [INFO] [MBP][conftest.py - line:27] 自动化测试结束!

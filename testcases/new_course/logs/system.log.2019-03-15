@@ -1,0 +1,33 @@
+[2019-03-15 11:34:02,166] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-03-15 11:34:02,168] [INFO] [MBP][driver.py - line:25] D8YDU16216000479
+[2019-03-15 11:34:15,270] [INFO] [MBP][driver.py - line:35] 连接设备:D8YDU16216000479
+[2019-03-15 11:34:15,272] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-03-15 11:34:28,626] [INFO] [MBP][base.py - line:174] 等待微信发现元素出现
+[2019-03-15 11:34:28,696] [INFO] [MBP][base.py - line:163] 展示文字
+[2019-03-15 11:34:36,007] [INFO] [MBP][base.py - line:115] 向下滑动
+[2019-03-15 11:34:56,779] [INFO] [MBP][conftest.py - line:27] 自动化测试结束!
+[2019-03-15 11:35:17,970] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-03-15 11:35:17,970] [INFO] [MBP][driver.py - line:25] D8YDU16216000479
+[2019-03-15 11:35:18,127] [INFO] [MBP][driver.py - line:35] 连接设备:D8YDU16216000479
+[2019-03-15 11:35:18,127] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-03-15 11:35:31,596] [INFO] [MBP][base.py - line:174] 等待微信发现元素出现
+[2019-03-15 11:35:31,646] [INFO] [MBP][base.py - line:163] 展示文字
+[2019-03-15 11:35:33,026] [INFO] [MBP][base.py - line:115] 向下滑动
+[2019-03-15 11:35:35,532] [INFO] [MBP][base.py - line:41] 点击元素:小熊家长会
+[2019-03-15 11:35:42,935] [INFO] [MBP][base.py - line:41] 点击元素:新建班级
+[2019-03-15 11:35:42,936] [INFO] [MBP][test_course_editor.py - line:22] 初始化新建班级模块
+[2019-03-15 11:35:44,910] [INFO] [MBP][base.py - line:174] 等待班级名称元素出现
+[2019-03-15 11:35:46,006] [INFO] [MBP][base.py - line:70] 输入文字U2测试班级
+[2019-03-15 11:35:46,176] [INFO] [MBP][base.py - line:153] 点击返回
+[2019-03-15 11:35:46,487] [INFO] [MBP][base.py - line:174] 等待孩子学习打卡元素出现
+[2019-03-15 11:35:48,052] [INFO] [MBP][base.py - line:41] 点击元素:孩子学习打卡
+[2019-03-15 11:35:48,181] [INFO] [MBP][base.py - line:174] 等待语文元素出现
+[2019-03-15 11:35:49,803] [INFO] [MBP][base.py - line:41] 点击元素:语文
+[2019-03-15 11:35:49,958] [INFO] [MBP][base.py - line:174] 等待下一步 元素出现
+[2019-03-15 11:35:51,487] [INFO] [MBP][base.py - line:41] 点击元素:下一步 
+[2019-03-15 11:35:52,457] [INFO] [MBP][base.py - line:174] 等待修改封面元素出现
+[2019-03-15 11:35:54,468] [INFO] [MBP][base.py - line:107] 向上滑动
+[2019-03-15 11:35:56,175] [INFO] [MBP][base.py - line:41] 点击元素:创建
+[2019-03-15 11:35:59,434] [INFO] [MBP][base.py - line:228] 断言立即邀请家长 元素存在,成功!
+[2019-03-15 11:35:59,436] [INFO] [MBP][test_course_editor.py - line:24] 结束新建班级模块
+[2019-03-15 11:35:59,436] [INFO] [MBP][conftest.py - line:27] 自动化测试结束!

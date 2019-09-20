@@ -1,0 +1,6 @@
+pytest==4.3.1
+xmltodict==0.12.0
+atx==1.2.0
+allure_python_commons==2.6.1
+uiautomator2==0.1.12
+PyYAML==3.13

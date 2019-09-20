@@ -1,0 +1,65 @@
+[2019-04-03 16:23:20,556] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-04-03 16:23:20,558] [INFO] [MBP][driver.py - line:23] 79URX19227000484
+[2019-04-03 16:23:20,734] [INFO] [MBP][driver.py - line:36] 初始化driver异常!device '79URX19227000484' not found
+[2019-04-03 16:23:20,734] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-04-03 16:23:52,944] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-04-03 16:23:52,945] [INFO] [MBP][driver.py - line:23] 79URX19227000484
+[2019-04-03 16:23:52,957] [INFO] [MBP][driver.py - line:36] 初始化driver异常!device '79URX19227000484' not found
+[2019-04-03 16:23:52,957] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-04-03 16:24:03,700] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-04-03 16:24:03,702] [INFO] [MBP][driver.py - line:23] 79URX19227000484
+[2019-04-03 16:24:03,952] [INFO] [MBP][driver.py - line:33] 连接设备:79URX19227000484
+[2019-04-03 16:24:03,952] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-04-03 16:24:10,552] [INFO] [MBP][base.py - line:195] 等待<微信发现>元素出现
+[2019-04-03 16:24:10,575] [INFO] [MBP][base.py - line:184] 展示文字
+[2019-04-03 16:24:11,579] [INFO] [MBP][base.py - line:115] 向下滑动
+[2019-04-03 16:24:14,007] [INFO] [MBP][base.py - line:41] 点击元素:<小熊家长会>
+[2019-04-03 16:24:18,003] [INFO] [MBP][base.py - line:195] 等待<历史班级>元素出现
+[2019-04-03 16:24:20,618] [INFO] [MBP][base.py - line:41] 点击元素:<打卡 >
+[2019-04-03 16:24:21,421] [INFO] [MBP][base.py - line:195] 等待<邀请打卡>元素出现
+[2019-04-03 16:24:21,421] [INFO] [MBP][test_course_basic.py - line:23] 初始化基础课程页面
+[2019-04-03 16:24:24,428] [INFO] [MBP][base.py - line:41] 点击元素:<Rhapsody>
+[2019-04-03 16:24:25,656] [INFO] [MBP][base.py - line:53] 点击元素<删除评论>
+[2019-04-03 16:24:48,113] [INFO] [MBP][test_course_basic.py - line:25] 结束基础课程页面
+[2019-04-03 16:24:48,114] [INFO] [MBP][conftest.py - line:27] 自动化测试结束!
+[2019-04-03 19:42:15,280] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-04-03 19:42:15,281] [INFO] [MBP][driver.py - line:23] 79URX19227000484
+[2019-04-03 19:42:15,435] [INFO] [MBP][driver.py - line:33] 连接设备:79URX19227000484
+[2019-04-03 19:42:15,435] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-04-03 19:42:22,468] [INFO] [MBP][base.py - line:195] 等待<微信发现>元素出现
+[2019-04-03 19:42:22,485] [INFO] [MBP][base.py - line:184] 展示文字
+[2019-04-03 19:42:23,441] [INFO] [MBP][base.py - line:115] 向下滑动
+[2019-04-03 19:42:26,190] [INFO] [MBP][base.py - line:41] 点击元素:<小熊家长会>
+[2019-04-03 19:42:33,088] [INFO] [MBP][base.py - line:41] 点击元素:<打卡 >
+[2019-04-03 19:42:33,208] [INFO] [MBP][base.py - line:195] 等待<邀请打卡>元素出现
+[2019-04-03 19:42:33,208] [INFO] [MBP][test_course_basic.py - line:23] 初始化基础课程页面
+[2019-04-03 19:42:34,508] [INFO] [MBP][test_course_basic.py - line:25] 结束基础课程页面
+[2019-04-03 19:42:34,508] [INFO] [MBP][conftest.py - line:27] 自动化测试结束!
+[2019-04-03 19:42:53,411] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-04-03 19:42:53,411] [INFO] [MBP][driver.py - line:23] 79URX19227000484
+[2019-04-03 19:42:53,544] [INFO] [MBP][driver.py - line:33] 连接设备:79URX19227000484
+[2019-04-03 19:42:53,544] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-04-03 19:42:58,880] [INFO] [MBP][base.py - line:195] 等待<微信发现>元素出现
+[2019-04-03 19:42:58,894] [INFO] [MBP][base.py - line:184] 展示文字
+[2019-04-03 19:42:59,848] [INFO] [MBP][base.py - line:115] 向下滑动
+[2019-04-03 19:43:02,459] [INFO] [MBP][base.py - line:41] 点击元素:<小熊家长会>
+[2019-04-03 19:43:08,954] [INFO] [MBP][base.py - line:41] 点击元素:<打卡 >
+[2019-04-03 19:43:10,194] [INFO] [MBP][base.py - line:195] 等待<邀请打卡>元素出现
+[2019-04-03 19:43:10,194] [INFO] [MBP][test_course_basic.py - line:23] 初始化基础课程页面
+[2019-04-03 19:43:11,390] [INFO] [MBP][base.py - line:53] 点击元素<更多课程>
+[2019-04-03 19:43:11,392] [INFO] [MBP][test_course_basic.py - line:25] 结束基础课程页面
+[2019-04-03 19:43:11,392] [INFO] [MBP][conftest.py - line:27] 自动化测试结束!
+[2019-04-03 19:46:53,521] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2019-04-03 19:46:53,522] [INFO] [MBP][driver.py - line:23] 79URX19227000484
+[2019-04-03 19:46:53,627] [INFO] [MBP][driver.py - line:33] 连接设备:79URX19227000484
+[2019-04-03 19:46:53,628] [INFO] [MBP][conftest.py - line:21] driver初始化
+[2019-04-03 19:46:59,010] [INFO] [MBP][base.py - line:195] 等待<微信发现>元素出现
+[2019-04-03 19:46:59,026] [INFO] [MBP][base.py - line:184] 展示文字
+[2019-04-03 19:46:59,929] [INFO] [MBP][base.py - line:115] 向下滑动
+[2019-04-03 19:47:02,645] [INFO] [MBP][base.py - line:41] 点击元素:<小熊家长会>
+[2019-04-03 19:47:08,827] [INFO] [MBP][base.py - line:41] 点击元素:<打卡 >
+[2019-04-03 19:47:09,005] [INFO] [MBP][base.py - line:195] 等待<邀请打卡>元素出现
+[2019-04-03 19:47:09,005] [INFO] [MBP][test_course_basic.py - line:23] 初始化基础课程页面
+[2019-04-03 19:47:10,209] [INFO] [MBP][base.py - line:53] 点击元素<更多课程>
+[2019-04-03 19:47:10,211] [INFO] [MBP][test_course_basic.py - line:25] 结束基础课程页面
+[2019-04-03 19:47:10,212] [INFO] [MBP][conftest.py - line:27] 自动化测试结束!
