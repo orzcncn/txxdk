@@ -92,7 +92,6 @@ def adb_screen_shot():
     adb截图
     :return:
     """
-    file_info = ''
     fail_time = time.strftime('%Y%m%d%H%M%S', time.localtime(time.time()))
     fail_pic = str(fail_time) + "截图.jpg"
     pic_name = os.path.join(screenshots_folder, fail_pic)
@@ -100,11 +99,4 @@ def adb_screen_shot():
     subprocess.call(cmd,shell=True)
     cmd = 'adb pull /sdcard/screenshot.jpg {}'.format(pic_name)
     subprocess.call(cmd, shell=True)
-    # with open(pic_name, 'rb') as r:
-    #     file_info = r.read()
-    # return file_info
     return pic_name
-
-
-
-

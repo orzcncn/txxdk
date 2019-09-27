@@ -8,8 +8,9 @@
 
 import os
 
-pck_name = "com.tencent.mm"
-device_name = "79URX19227000484"
+# 全局配置
+pck_name = "com.tencent.mm"   # 包名
+device_name = "79URX19227000484"  #设备名
 wait_timeout = 20
 click_post_delay = 1
 launch_time = 4
