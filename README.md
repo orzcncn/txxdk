@@ -4,13 +4,14 @@
 ## 框架选择
 
 - python3 
-- Uiautomator
+- Uiautomator2
 - pytest 
 - allure
 
 ## 特性
+- 纯正pageobject模式，复用性强
 - 支持失败自动重试（提高稳定性）
-- 执行无线运行
+- 支持无线运行
 - 支持多机模式
 - 参数化数据
 - 失败自动截图
