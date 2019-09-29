@@ -28,7 +28,7 @@ Radiance测试框架目录
 |--testcases                             -----测试用例目录
 |   |--testpagea.py                      -----pagea页面的测试类
 |   |--submodule
-|       |--testpageb.py 
+|       |--testpageb.py                  -----子页面pageb页面的测试类
 |--tools
 |   |--loggers.py                        -----日志处理模块
 |   |--error.py                          -----错误处理模块
@@ -38,7 +38,7 @@ Radiance测试框架目录
 |run.py                                  -----生成报告方法
 ```
 
-###使用
+### 使用
 创建python3虚拟环境
 Pycharm --file--setting--ProjectIncerpreter--add virtualenv
 什么都不勾选    
