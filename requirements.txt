@@ -22,10 +22,10 @@ maproxy==0.0.12
 more-itertools==6.0.0
 numpy==1.16.2
 Pillow==5.4.1
-pluggy==0.9.0
+pluggy==0.13.0
 progress==1.5
 py==1.8.0
-pytest==4.3.1
+pytest==5.2.1
 pytest-rerunfailures==6.0
 PyYAML==5.1.2
 requests==2.21.0
@@ -36,3 +36,4 @@ tqdm==4.5.0
 uiautomator2==0.2.2
 urllib3==1.25.5
 whichcraft==0.5.2
+pytest-xdist==1.30.0
