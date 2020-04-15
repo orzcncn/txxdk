@@ -1,0 +1,4 @@
+[2020-01-11 17:33:14,405] [INFO] [MBP][conftest.py - line:19] 自动化测试开始!
+[2020-01-11 17:33:14,406] [INFO] [MBP][driver.py - line:23] 79URX19227000484
+[2020-01-11 17:33:14,414] [INFO] [MBP][driver.py - line:36] 初始化driver异常![Errno 61] Connection refused
+[2020-01-11 17:33:14,414] [INFO] [MBP][conftest.py - line:21] driver初始化
